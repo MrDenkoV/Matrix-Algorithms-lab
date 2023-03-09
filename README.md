@@ -1,2 +1,2 @@
 # Matrix-Algorithms-lab
-matrix Algorithms course
+Matrix Algorithms course
